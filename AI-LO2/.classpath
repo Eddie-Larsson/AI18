@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="jars/search-common.jar" sourcepath="/home/eddie/Downloads/search-common/src.zip"/>
+	<classpathentry kind="lib" path="jars/river_crossing.jar" sourcepath="/home/eddie/Downloads/river_crossing/src.zip"/>
+	<classpathentry kind="lib" path="jars/touring_romania.jar" sourcepath="/home/eddie/Downloads/touring-romania/src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
