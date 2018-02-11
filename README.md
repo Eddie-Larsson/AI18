@@ -1,2 +1,2 @@
 # AI18
-Code for course in AI, contains some search algorithms.
+Code for course DT015A in AI.
